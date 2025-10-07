@@ -103,5 +103,5 @@ Laptop-Data-Analysis/
 
 **Tung Pham**
 Data Analyst | Python | Visualization | Machine Learning
-📫 [Your email or LinkedIn here]
+📫 [tungpham@bu.edu]
 
